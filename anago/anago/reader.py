@@ -45,6 +45,8 @@ def load_data_and_labels(filename):
                     labels.append(tags)
                     words, tags = [], []
             else:
+                if "\t" not in line:
+                    print "bad line: " + line
                 word, tag = line.split('\t')
                 words.append(word)
                 tags.append(tag)

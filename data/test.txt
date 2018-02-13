@@ -1,0 +1,533 @@
+garage	B-PROD
+door	I-PROD
+opener	I-PROD
+
+hot	O
+water	B-PROD
+heater	I-PROD
+
+ceiling	B-PROD
+fans	I-PROD
+with	O
+lights	O
+
+led	O
+light	B-PROD
+bulbs	I-PROD
+
+portable	O
+air	B-PROD
+conditioner	I-PROD
+
+tankless	O
+water	B-PROD
+heater	I-PROD
+
+window	O
+air	B-PROD
+conditioner	I-PROD
+
+chain	O
+link	O
+fence	B-PROD
+
+pressure	O
+treated	O
+lumber	B-PROD
+
+washer	B-PROD
+and	O
+dryer	B-PROD
+
+riding	O
+lawn	B-PROD
+mower	I-PROD
+
+shed	B-PROD
+for	O
+storage	O
+
+outdoor	O
+ceiling	B-PROD
+fan	I-PROD
+
+peel	O
+and	O
+stick	O
+tile	B-PROD
+
+vinyl	O
+plank	O
+flooring	B-PROD
+
+electric	O
+water	B-PROD
+heater	I-PROD
+
+area	B-PROD
+rugs	I-PROD
+8x10	O
+
+gas	O
+water	B-PROD
+heater	I-PROD
+
+under	O
+cabinet	O
+lighting	B-PROD
+
+toilet	B-PROD
+paper	I-PROD
+holder	I-PROD
+
+retaining	O
+wall	B-PROD
+blocks	I-PROD
+
+washer	B-PROD
+dryer	B-PROD
+combo	O
+
+kitchen	O
+counter	O
+tops	O
+
+motion	B-PROD
+sensor	I-PROD
+light	I-PROD
+
+led	O
+shop	O
+light	B-PROD
+
+wood	O
+fence	B-PROD
+panels	I-PROD
+
+stackable	O
+washer	B-PROD
+dryer	B-PROD
+
+blinds	B-PROD
+for	O
+windows	O
+
+flush	O
+mount	O
+lighting	B-PROD
+
+toilet	O
+repair	B-PROD
+kit	I-PROD
+
+kitchen	B-PROD
+cabinets	I-PROD
+in	O
+stock	O
+
+truck	O
+tool	B-PROD
+box	I-PROD
+
+counter	O
+depth	O
+fridge	B-PROD
+
+air	B-PROD
+conditioner	I-PROD
+window	O
+
+led	O
+ceiling	B-PROD
+light	I-PROD
+
+ceramic	O
+floor	B-PROD
+tile	I-PROD
+
+tv	B-PROD
+wall	I-PROD
+mount	I-PROD
+
+faux	O
+wood	B-PROD
+blinds	I-PROD
+
+sliding	B-FEAT
+closet	O
+doors	B-PROD
+
+sliding	B-FEAT
+glass	B-MAT
+doors	B-PROD
+
+bathroom	O
+floor	B-PROD
+tile	I-PROD
+
+barn	O
+door	O
+hardware	B-PROD
+
+shelf	B-PROD
+for	O
+storage	O
+
+french	B-PROD
+door	I-PROD
+refrigerator	I-PROD
+
+husky	B-BRAND
+tool	B-PROD
+chest	I-PROD
+
+indoor	O
+outdoor	O
+carpet	B-PROD
+
+ceiling	B-PROD
+fans	I-PROD
+with	O
+remote	B-FEAT
+
+husky	B-BRAND
+tool	B-PROD
+box	I-PROD
+
+garage	O
+floor	B-PROD
+paint	I-PROD
+
+peel	B-PROD
+stick	I-PROD
+tile	I-PROD
+
+wet	O
+dry	O
+vac	B-PROD
+
+laminate	B-PROD
+wood	B-MAT
+flooring	B-PROD
+
+sheds	B-PROD
+with	O
+floors	O
+
+bathroom	O
+exhaust	O
+fan	B-PROD
+
+vanity	B-PROD
+tops	I-PROD
+with	O
+sink	B-PROD
+
+tongue	O
+and	O
+groove	O
+
+hampton	B-BRAND
+bay	I-BRAND
+cabinets	B-PROD
+
+artificial	B-PROD
+christmas	I-PROD
+tree	I-PROD
+
+ceiling	B-PROD
+fan	I-PROD
+with	O
+light	O
+
+insulation	O
+foam	B-PROD
+boards	I-PROD
+
+bathroom	O
+vanity	B-PROD
+tops	I-PROD
+
+led	O
+christmas	B-PROD
+lights	I-PROD
+
+led	O
+recessed	O
+lighting	B-PROD
+
+sliding	B-FEAT
+screen	B-PROD
+door	I-PROD
+
+shower	O
+curtain	B-PROD
+rod	I-PROD
+
+zero	O
+turn	O
+mowers	B-PROD
+
+carbon	O
+monoxide	O
+alarm	B-PROD
+
+weed	O
+and	O
+feed	O
+
+hunter	B-BRAND
+ceiling	B-PROD
+fans	I-PROD
+
+hot	O
+water	B-PROD
+heater	I-PROD
+electric	B-FEAT
+
+sliding	O
+door	O
+hardware	O
+
+prehung	O
+interior	O
+doors	B-PROD
+
+bathroom	O
+light	O
+fixtures	B-PROD
+
+led	B-PROD
+light	I-PROD
+strip	I-PROD
+
+gas	B-PROD
+fire	I-PROD
+pit	I-PROD
+
+raised	O
+garden	O
+bed	B-PROD
+
+mulch	B-PROD
+on	O
+sale	O
+
+hampton	B-BRAND
+bay	I-BRAND
+ceiling	B-PROD
+fan	I-PROD
+
+4x4x8	O
+pressure	O
+treated	O
+
+lawn	B-PROD
+mowers	I-PROD
+on	O
+sale	O
+
+peel	B-FEAT
+and	I-FEAT
+stick	I-FEAT
+floor	B-PROD
+tile	I-PROD
+
+garage	B-PROD
+door	I-PROD
+spring	O
+
+post	O
+hole	B-PROD
+digger	I-PROD
+
+light	O
+switch	O
+covers	O
+
+home	O
+decorators	O
+collection	O
+
+stainless	B-MAT
+steel	I-MAT
+sink	B-PROD
+
+solar	B-PROD
+lights	I-PROD
+outdoor	O
+
+led	O
+flood	B-PROD
+light	I-PROD
+
+low	B-FEAT
+voltage	I-FEAT
+lighting	B-PROD
+
+vanity	B-PROD
+with	O
+top	O
+
+drill	B-PROD
+bit	I-PROD
+set	I-PROD
+
+garage	O
+door	O
+insulation	O
+
+american	B-BRAND
+standard	I-BRAND
+toilet	B-PROD
+
+christmas	B-PROD
+tree	I-PROD
+in	O
+pre-lit	O
+christmas	B-CAT
+trees	I-CAT
+
+garage	B-PROD
+door	I-PROD
+seal	O
+
+electric	O
+lawn	B-PROD
+mower	I-PROD
+
+security	B-PROD
+camera	I-PROD
+system	I-PROD
+
+kitchen	B-PROD
+sink	I-PROD
+faucet	I-PROD
+
+door	B-PROD
+knobs	I-PROD
+interior	O
+
+top	B-PROD
+load	I-PROD
+washer	I-PROD
+
+white	B-COL
+subway	B-PROD
+tile	I-PROD
+
+black	B-BRAND
+and	I-BRAND
+decker	I-BRAND
+
+delta	I-BRAND
+kitchen	B-PROD
+faucet	I-PROD
+
+self	B-FEAT
+propelled	I-FEAT
+mower	B-PROD
+
+toro	B-BRAND
+lawn	B-PROD
+mower	I-PROD
+
+split	O
+rail	O
+fence	B-PROD
+
+honda	B-BRAND
+lawn	B-PROD
+mower	I-PROD
+
+wood	B-FEAT
+look	I-FEAT
+tile	B-PROD
+
+moen	B-BRAND
+kitchen	B-PROD
+faucet	I-PROD
+
+switch	B-PROD
+plate	I-PROD
+covers	I-PROD
+
+refrigerator	B-PROD
+water	I-PROD
+filter	I-PROD
+
+tub	B-PROD
+shower	I-PROD
+combo	I-PROD
+
+windows	B-PROD
+for	O
+homes	O
+
+microwave	B-PROD
+over	O
+range	O
+
+air	B-PROD
+conditioner	I-PROD
+portable	B-FEAT
+
+porcelain	O
+floor	O
+tile	O
+
+ceiling	I-PROD
+fan	I-PROD
+light	I-PROD
+kit	I-PROD
+
+bathroom	B-PROD
+vanity	I-PROD
+with	O
+top	O
+
+generators	B-PROD
+for	O
+home	O
+
+paneling	B-PROD
+for	O
+walls	O
+
+miter	B-BRAND
+saw	B-PROD
+stand	I-PROD
+
+hot	O
+water	B-PROD
+tank	I-PROD
+
+chain	O
+link	O
+fencing	B-PROD
+
+laundry	O
+room	O
+cabinets	B-PROD
+
+simpson	O
+strong	O
+tie	O
+
+washer	B-PROD
+and	I-PROD
+dryer	I-PROD
+sets	I-PROD
+
+bathroom	O
+wall	O
+cabinet	B-PROD
+
+cieling	B-PROD
+fans	I-PROD
+with	O
+lights	O
+
+frameless	B-FEAT
+shower	B-PROD
+door	I-PROD
