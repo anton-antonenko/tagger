@@ -428,14 +428,14 @@ kit	I-PROD
 
 galvanized	B-FEAT
 sheet	B-PROD
-metal	I-PROD
+metal	B-MAT
 
 peel	B-PROD
 and	I-PROD
 stick	I-PROD
 flooring	I-PROD
 
-white	B-COLOR
+white	B-COL
 prehung	B-FEAT
 exterior	B-PROD
 doors	I-PROD
@@ -539,7 +539,7 @@ trees	I-PROD
 
 milwaukee	B-BRAND
 claw	B-PROD
-hammer	B-PROD
+hammer	I-PROD
 
 glass	B-MAT
 doors	B-PROD

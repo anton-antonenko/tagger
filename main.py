@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import anago
@@ -22,20 +21,20 @@ def load_model(path):
 # x_valid, y_valid = load_data_and_labels('anago/data/conll2003/en/ner/valid.txt')
 # x_test, y_test = load_data_and_labels('anago/data/conll2003/en/ner/test.txt')
 
-# x_train, y_train = load_data_and_labels('data/train.txt')
-# x_valid, y_valid = load_data_and_labels('data/test.txt')
+x_train, y_train = load_data_and_labels('data/train.txt')
+x_valid, y_valid = load_data_and_labels('data/test.txt')
 # x_test, y_test = load_data_and_labels('data/test.txt')
 
-# model = anago.Sequence()
-# model.train(x_train, y_train, x_valid, y_valid)
+model = anago.Sequence()
+model.train(x_train, y_train, x_valid, y_valid)
 
 # model.eval(x_test, y_test)
 
 # model.save('my-model/')
 
 # model = load_model('model/')
-model = load_model('my-model/')
+# model = load_model('my-model/')
 
-words = 'white milwaukee claw hammer'.split()
+words = 'milwaukee 16oz hammer'.split()
 concepts_result = model.analyze(words)
 pretty_print_json(str(concepts_result))
